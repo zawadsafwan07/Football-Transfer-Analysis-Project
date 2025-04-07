@@ -1,0 +1,1374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-21">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="market_value" type="int" />
+      <attribute id="1" title="players" type="string" />
+    </attributes>
+    <nodes>
+      <node id="5" label="AC Milan" />
+      <node id="12" label="AS Roma" />
+      <node id="36" label="Fenerbahce" />
+      <node id="46" label="Inter" />
+      <node id="58" label="RSC Anderlecht" />
+      <node id="141" label="Galatasaray" />
+      <node id="162" label="Monaco" />
+      <node id="252" label="Genoa" />
+      <node id="281" label="Man City" />
+      <node id="294" label="Benfica" />
+      <node id="430" label="Fiorentina" />
+      <node id="506" label="Juventus" />
+      <node id="543" label="Wolves" />
+      <node id="631" label="Chelsea" />
+      <node id="703" label="Nottm Forest" />
+      <node id="683" label="Olympiacos" />
+      <node id="720" label="FC Porto" />
+      <node id="336" label="Sporting CP" />
+      <node id="410" label="Udinese" />
+      <node id="515" label="Without Club" />
+    </nodes>
+    <edges>
+      <edge source="5" target="12" id="0" weight="6">
+        <attvalues>
+          <attvalue for="0" value="85000000" />
+          <attvalue for="1" value="Tammy Abraham, Alexis Saelemaekers, Alessandro Florenzi, Stephan El Shaarawy, Stephan El Shaarawy, Mattia Destro" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="36" id="1" weight="2">
+        <attvalues>
+          <attvalue for="0" value="14500000" />
+          <attvalue for="1" value="Rade Krunic, Rade Krunic" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="46" id="2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="35000000" />
+          <attvalue for="1" value="Hakan Ã‡alhanoÄŸlu" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="58" id="3" weight="2">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="Jan-Carlo SimiÄ‡, Alexis Saelemaekers" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="141" id="4" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="Ãlvaro Morata" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="162" id="5" weight="3">
+        <attvalues>
+          <attvalue for="0" value="20700000" />
+          <attvalue for="1" value="Pietro Pellegri, Stephan El Shaarawy, Pierre-Emerick Aubameyang" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="252" id="6" weight="10">
+        <attvalues>
+          <attvalue for="0" value="49600000" />
+          <attvalue for="1" value="Junior Messias, Junior Messias, Gianluca Lapadula, Gianluca Lapadula, Andrea Bertolacci, Suso, M'Baye Niang, Francesco Acerbi, Antonio Donnarumma, Sokratis Papastathopoulos" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="281" id="7" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Kyle Walker" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="294" id="8" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Bryan Cristante" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="430" id="9" weight="3">
+        <attvalues>
+          <attvalue for="0" value="28000000" />
+          <attvalue for="1" value="Riccardo Sottil, Yacine Adli, Giacomo Bonaventura" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="506" id="10" weight="3">
+        <attvalues>
+          <attvalue for="0" value="63500000" />
+          <attvalue for="1" value="Pierre Kalulu, Leonardo Bonucci, Mattia De Sciglio" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="543" id="11" weight="1">
+        <attvalues>
+          <attvalue for="0" value="28000000" />
+          <attvalue for="1" value="Patrick Cutrone" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="631" id="12" weight="6">
+        <attvalues>
+          <attvalue for="0" value="111000000" />
+          <attvalue for="1" value="JoÃ£o FÃ©lix, TiemouÃ© Bakayoko, Fikayo Tomori, TiemouÃ© Bakayoko, Mario Pasalic, Marco van Ginkel" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="703" id="13" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Divock Origi" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="5" id="14" weight="8">
+        <attvalues>
+          <attvalue for="0" value="117500000" />
+          <attvalue for="1" value="Alexis Saelemaekers, Tammy Abraham, Alessandro Florenzi, Alessandro Florenzi, Stephan El Shaarawy, Alessio Romagnoli, Andrea Bertolacci, Mattia Destro" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="36" id="15" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Salih UÃ§an" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="46" id="16" weight="5">
+        <attvalues>
+          <attvalue for="0" value="43000000" />
+          <attvalue for="1" value="Nicola Zalewski, Henrikh Mkhitaryan, Edin DÅ¾eko, Juan Jesus, Adem Ljajic" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="58" id="17" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Amadou Diawara" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="141" id="18" weight="3">
+        <attvalues>
+          <attvalue for="0" value="67000000" />
+          <attvalue for="1" value="Victor Nelsson, NicolÃ² Zaniolo, Steven Nzonzi" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="252" id="19" weight="5">
+        <attvalues>
+          <attvalue for="0" value="23500000" />
+          <attvalue for="1" value="Riccardo Calafiori, Ervin Zukanovic, Ervin Zukanovic, Mattia Destro, Andrea Bertolacci" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="281" id="20" weight="1">
+        <attvalues>
+          <attvalue for="0" value="15000000" />
+          <attvalue for="1" value="Edin DÅ¾eko" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="294" id="21" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4000000" />
+          <attvalue for="1" value="Samuel Dahl" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="430" id="22" weight="3">
+        <attvalues>
+          <attvalue for="0" value="48000000" />
+          <attvalue for="1" value="Edoardo Bove, Andrea Belotti, Jordan Veretout" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="506" id="23" weight="3">
+        <attvalues>
+          <attvalue for="0" value="50000000" />
+          <attvalue for="1" value="Dean Huijsen, Luca Pellegrini, Miralem PjaniÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="631" id="24" weight="5">
+        <attvalues>
+          <attvalue for="0" value="104000000" />
+          <attvalue for="1" value="Romelu Lukaku, Davide Zappacosta, Emerson, Antonio RÃ¼diger, Mohamed Salah" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="683" id="25" weight="2">
+        <attvalues>
+          <attvalue for="0" value="13500000" />
+          <attvalue for="1" value="Ola Solbakken, Mady Camara" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="720" id="26" weight="2">
+        <attvalues>
+          <attvalue for="0" value="16000000" />
+          <attvalue for="1" value="SÃ©rgio Oliveira, IvÃ¡n Marcano" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="5" id="27" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Rade Krunic" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="12" id="28" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3500000" />
+          <attvalue for="1" value="Salih UÃ§an" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="46" id="29" weight="1">
+        <attvalues>
+          <attvalue for="0" value="9000000" />
+          <attvalue for="1" value="Caner Erkin" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="141" id="30" weight="2">
+        <attvalues>
+          <attvalue for="0" value="9000000" />
+          <attvalue for="1" value="Michy Batshuayi, Åžener Ã–zbayraklÄ±" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="252" id="31" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2700000" />
+          <attvalue for="1" value="Miha Zajc" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="430" id="32" weight="1">
+        <attvalues>
+          <attvalue for="0" value="22000000" />
+          <attvalue for="1" value="Sofyan Amrabat" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="506" id="33" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Filip KostiÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="631" id="34" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8500000" />
+          <attvalue for="1" value="Victor Moses" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="683" id="35" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1500000" />
+          <attvalue for="1" value="Mathieu Valbuena" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="12" id="36" weight="5">
+        <attvalues>
+          <attvalue for="0" value="42500000" />
+          <attvalue for="1" value="Nicola Zalewski, NicolÃ² Zaniolo, Juan Jesus, Juan Jesus, Adem Ljajic" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="36" id="37" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4000000" />
+          <attvalue for="1" value="Edin DÅ¾eko" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="58" id="38" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5000000" />
+          <attvalue for="1" value="Sebastiano Esposito" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="162" id="39" weight="2">
+        <attvalues>
+          <attvalue for="0" value="35000000" />
+          <attvalue for="1" value="Keita BaldÃ©, Stevan Jovetic" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="252" id="40" weight="13">
+        <attvalues>
+          <attvalue for="0" value="91100000" />
+          <attvalue for="1" value="Eddie Salcedo, Eddie Salcedo, Zinho Vanheusden, Andrea Pinamonti, Eddie Salcedo, Andrei Radu, Andrei Radu, Andrea Pinamonti, Andrei Radu, Diego Laxalt, Diego Laxalt, Mattia Destro, Leonardo Bonucci" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="281" id="41" weight="2">
+        <attvalues>
+          <attvalue for="0" value="36000000" />
+          <attvalue for="1" value="Stevan Jovetic, Mario Balotelli" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="294" id="42" weight="2">
+        <attvalues>
+          <attvalue for="0" value="22000000" />
+          <attvalue for="1" value="Valentino Lazaro, JoÃ£o MÃ¡rio" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="336" id="43" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="JoÃ£o MÃ¡rio" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="410" id="44" weight="3">
+        <attvalues>
+          <attvalue for="0" value="6900000" />
+          <attvalue for="1" value="Alexis SÃ¡nchez, Daniele Padelli, Davide Faraoni" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="430" id="45" weight="1">
+        <attvalues>
+          <attvalue for="0" value="9500000" />
+          <attvalue for="1" value="Cristiano Biraghi" />
+        </attvalues>
+      </edge>
+      <edge source="46" target="631" id="46" weight="4">
+        <attvalues>
+          <attvalue for="0" value="147000000" />
+          <attvalue for="1" value="Romelu Lukaku, Cesare Casadei, Romelu Lukaku, Victor Moses" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="5" id="47" weight="2">
+        <attvalues>
+          <attvalue for="0" value="15000000" />
+          <attvalue for="1" value="Alexis Saelemaekers, Alexis Saelemaekers" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="46" id="48" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3500000" />
+          <attvalue for="1" value="Sebastiano Esposito" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="162" id="49" weight="2">
+        <attvalues>
+          <attvalue for="0" value="30000000" />
+          <attvalue for="1" value="Nacer Chadli, Youri Tielemans" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="281" id="50" weight="4">
+        <attvalues>
+          <attvalue for="0" value="28500000" />
+          <attvalue for="1" value="Sergio GÃ³mez, Taylor Harwood-Bellis, Lukas Nmecha, Philippe Sandler" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="294" id="51" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4850000" />
+          <attvalue for="1" value="Mile Svilar, Filip Djuricic" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="336" id="52" weight="2">
+        <attvalues>
+          <attvalue for="0" value="20000000" />
+          <attvalue for="1" value="Zeno Debast, Abdoulay Diaby" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="410" id="53" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Bram Nuytinck" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="430" id="54" weight="1">
+        <attvalues>
+          <attvalue for="0" value="9000000" />
+          <attvalue for="1" value="Christian KouamÃ©" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="543" id="55" weight="3">
+        <attvalues>
+          <attvalue for="0" value="48000000" />
+          <attvalue for="1" value="FÃ¡bio Silva, Leander Dendoncker, Leander Dendoncker" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="631" id="56" weight="1">
+        <attvalues>
+          <attvalue for="0" value="15000000" />
+          <attvalue for="1" value="Romelu Lukaku" />
+        </attvalues>
+      </edge>
+      <edge source="58" target="703" id="57" weight="1">
+        <attvalues>
+          <attvalue for="0" value="100000" />
+          <attvalue for="1" value="Liam Bossin" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="5" id="58" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="Ãlvaro Morata" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="12" id="59" weight="2">
+        <attvalues>
+          <attvalue for="0" value="27500000" />
+          <attvalue for="1" value="Victor Nelsson, Steven Nzonzi" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="36" id="60" weight="2">
+        <attvalues>
+          <attvalue for="0" value="6250000" />
+          <attvalue for="1" value="Serdar Aziz, Tolga CiÄŸerci" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="162" id="61" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Ismail Jakobs" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="252" id="62" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5800000" />
+          <attvalue for="1" value="Berkan Kutlu, Sinan GÃ¼mÃ¼ÅŸ, Koray GÃ¼nter" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="294" id="63" weight="2">
+        <attvalues>
+          <attvalue for="0" value="27500000" />
+          <attvalue for="1" value="Kerem AktÃ¼rkoÄŸlu, Gedson Fernandes" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="430" id="64" weight="1">
+        <attvalues>
+          <attvalue for="0" value="18000000" />
+          <attvalue for="1" value="NicolÃ² Zaniolo" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="631" id="65" weight="1">
+        <attvalues>
+          <attvalue for="0" value="9000000" />
+          <attvalue for="1" value="Hakim Ziyech" />
+        </attvalues>
+      </edge>
+      <edge source="141" target="720" id="66" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1000000" />
+          <attvalue for="1" value="Sinan Bolat" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="5" id="67" weight="5">
+        <attvalues>
+          <attvalue for="0" value="59500000" />
+          <attvalue for="1" value="Youssouf Fofana, Pietro Pellegri, FodÃ© Ballo-TourÃ©, Stephan El Shaarawy, Pierre-Emerick Aubameyang" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="46" id="68" weight="2">
+        <attvalues>
+          <attvalue for="0" value="46000000" />
+          <attvalue for="1" value="Keita BaldÃ©, Geoffrey Kondogbia" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="58" id="69" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Nacer Chadli" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="141" id="70" weight="3">
+        <attvalues>
+          <attvalue for="0" value="26000000" />
+          <attvalue for="1" value="Ismail Jakobs, Ismail Jakobs, Radamel Falcao" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="281" id="71" weight="2">
+        <attvalues>
+          <attvalue for="0" value="53000000" />
+          <attvalue for="1" value="Benjamin Mendy, Bernardo Silva" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="294" id="72" weight="3">
+        <attvalues>
+          <attvalue for="0" value="16500000" />
+          <attvalue for="1" value="Gil Dias, Florentino, Bernardo Silva" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="430" id="73" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="543" id="74" weight="4">
+        <attvalues>
+          <attvalue for="0" value="18025000" />
+          <attvalue for="1" value="JoÃ£o Moutinho, RÃºben Vinagre, RÃºben Vinagre, Ivan Cavaleiro" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="631" id="75" weight="7">
+        <attvalues>
+          <attvalue for="0" value="157500000" />
+          <attvalue for="1" value="Axel Disasi, Malang Sarr, BenoÃ®t Badiashile, TiemouÃ© Bakayoko, TiemouÃ© Bakayoko, Mario Pasalic, Radamel Falcao" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="683" id="76" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5500000" />
+          <attvalue for="1" value="Gelson Martins, Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="162" target="703" id="77" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="5" id="78" weight="9">
+        <attvalues>
+          <attvalue for="0" value="70800000" />
+          <attvalue for="1" value="Junior Messias, Krzysztof Piatek, Diego Laxalt, Gianluca Lapadula, Andrea Bertolacci, Suso, M'Baye Niang, Stephan El Shaarawy, Sokratis Papastathopoulos" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="12" id="79" weight="6">
+        <attvalues>
+          <attvalue for="0" value="49000000" />
+          <attvalue for="1" value="Riccardo Calafiori, Eldor Shomurodov, Ervin Zukanovic, Andrea Bertolacci, Mattia Destro, Mattia Destro" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="36" id="80" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4500000" />
+          <attvalue for="1" value="Miha Zajc, Sinan GÃ¼mÃ¼ÅŸ" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="46" id="81" weight="12">
+        <attvalues>
+          <attvalue for="0" value="110500000" />
+          <attvalue for="1" value="Josep MartÃ­nez, Eddie Salcedo, Zinho Vanheusden, Eddie Salcedo, Andrea Pinamonti, Andrea Pinamonti, Eddie Salcedo, Andrei Radu, Andrei Radu, Eddie Salcedo, Andrei Radu, Diego Laxalt" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="141" id="82" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4000000" />
+          <attvalue for="1" value="Berkan Kutlu" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="162" id="83" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Pietro Pellegri" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="294" id="84" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Pedro Pereira" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="410" id="85" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Giuseppe Pezzella" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="430" id="86" weight="5">
+        <attvalues>
+          <attvalue for="0" value="82000000" />
+          <attvalue for="1" value="Albert Gudmundsson, Christian KouamÃ©, Riccardo Saponara, Christian KouamÃ©, Giovanni Simeone" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="506" id="87" weight="16">
+        <attvalues>
+          <attvalue for="0" value="139500000" />
+          <attvalue for="1" value="Fabio Miretti, Koni De Winter, Radu DrÄƒguÈ™in, Andrea Cambiaso, NicolÃ² Rovella, Mattia Perin, Luca Pellegrini, NicolÃ² Rovella, Cristian Romero, Cristian Romero, Stefano Sturaro, Mattia Perin, Rolando Mandragora, Stefano Sturaro, Stefano Sturaro, Ciro Immobile" />
+        </attvalues>
+      </edge>
+      <edge source="252" target="631" id="88" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Davide Zappacosta" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="5" id="89" weight="2">
+        <attvalues>
+          <attvalue for="0" value="34000000" />
+          <attvalue for="1" value="Kyle Walker, Mario Balotelli" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="12" id="90" weight="2">
+        <attvalues>
+          <attvalue for="0" value="35000000" />
+          <attvalue for="1" value="Edin DÅ¾eko, Edin DÅ¾eko" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="46" id="91" weight="2">
+        <attvalues>
+          <attvalue for="0" value="25000000" />
+          <attvalue for="1" value="Stevan Jovetic, Stevan Jovetic" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="58" id="92" weight="3">
+        <attvalues>
+          <attvalue for="0" value="9100000" />
+          <attvalue for="1" value="Taylor Harwood-Bellis, Lukas Nmecha, Philippe Sandler" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="141" id="93" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Fernando" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="162" id="94" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4500000" />
+          <attvalue for="1" value="Rony Lopes" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="294" id="95" weight="2">
+        <attvalues>
+          <attvalue for="0" value="24500000" />
+          <attvalue for="1" value="Issa KaborÃ©, NicolÃ¡s Otamendi" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="336" id="96" weight="2">
+        <attvalues>
+          <attvalue for="0" value="34000000" />
+          <attvalue for="1" value="Pedro Porro, Pedro Porro" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="430" id="97" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Stefan Savic" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="506" id="98" weight="1">
+        <attvalues>
+          <attvalue for="0" value="20000000" />
+          <attvalue for="1" value="Danilo" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="543" id="99" weight="2">
+        <attvalues>
+          <attvalue for="0" value="17000000" />
+          <attvalue for="1" value="Tommy Doyle, Tommy Doyle" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="631" id="100" weight="2">
+        <attvalues>
+          <attvalue for="0" value="88000000" />
+          <attvalue for="1" value="Cole Palmer, Raheem Sterling" />
+        </attvalues>
+      </edge>
+      <edge source="281" target="703" id="101" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Arijanet Muric" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="12" id="102" weight="2">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Samuel Dahl, Mile Svilar" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="46" id="103" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Valentino Lazaro" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="58" id="104" weight="2">
+        <attvalues>
+          <attvalue for="0" value="7000000" />
+          <attvalue for="1" value="Jan Vertonghen, Filip Djuricic" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="141" id="105" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13500000" />
+          <attvalue for="1" value="Gedson Fernandes" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="162" id="106" weight="4">
+        <attvalues>
+          <attvalue for="0" value="27500000" />
+          <attvalue for="1" value="Florentino, Ivan Cavaleiro, Bernardo Silva, Bernardo Silva" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="252" id="107" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Pedro Pereira" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="281" id="108" weight="3">
+        <attvalues>
+          <attvalue for="0" value="63000000" />
+          <attvalue for="1" value="Issa KaborÃ©, RÃºben Dias, Ederson" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="543" id="109" weight="4">
+        <attvalues>
+          <attvalue for="0" value="91000000" />
+          <attvalue for="1" value="GonÃ§alo Guedes, GonÃ§alo Guedes, RaÃºl JimÃ©nez, RaÃºl JimÃ©nez" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="631" id="110" weight="2">
+        <attvalues>
+          <attvalue for="0" value="82000000" />
+          <attvalue for="1" value="Enzo FernÃ¡ndez, Nemanja Matic" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="683" id="111" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5000000" />
+          <attvalue for="1" value="Chiquinho" />
+        </attvalues>
+      </edge>
+      <edge source="294" target="703" id="112" weight="5">
+        <attvalues>
+          <attvalue for="0" value="40000000" />
+          <attvalue for="1" value="Morato, Odysseas Vlachodimos, JoÃ£o Carvalho, Diogo GonÃ§alves, NÃ©lson Oliveira" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="5" id="113" weight="3">
+        <attvalues>
+          <attvalue for="0" value="29000000" />
+          <attvalue for="1" value="Yacine Adli, Riccardo Sottil, Luka JoviÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="12" id="114" weight="5">
+        <attvalues>
+          <attvalue for="0" value="75000000" />
+          <attvalue for="1" value="Edoardo Bove, Andrea Belotti, Jordan Veretout, Jordan Veretout, Adem Ljajic" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="36" id="115" weight="2">
+        <attvalues>
+          <attvalue for="0" value="44000000" />
+          <attvalue for="1" value="Sofyan Amrabat, Sofyan Amrabat" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="46" id="116" weight="2">
+        <attvalues>
+          <attvalue for="0" value="23000000" />
+          <attvalue for="1" value="Cristiano Biraghi, MatÃ­as Vecino" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="58" id="117" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8500000" />
+          <attvalue for="1" value="Christian KouamÃ©" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="141" id="118" weight="1">
+        <attvalues>
+          <attvalue for="0" value="18000000" />
+          <attvalue for="1" value="NicolÃ² Zaniolo" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="162" id="119" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="252" id="120" weight="3">
+        <attvalues>
+          <attvalue for="0" value="54000000" />
+          <attvalue for="1" value="Albert Gudmundsson, Christian KouamÃ©, Riccardo Saponara" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="281" id="121" weight="2">
+        <attvalues>
+          <attvalue for="0" value="33500000" />
+          <attvalue for="1" value="Stevan Jovetic, Matija NastasiÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="294" id="122" weight="1">
+        <attvalues>
+          <attvalue for="0" value="20000000" />
+          <attvalue for="1" value="Arthur Cabral" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="336" id="123" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Bruno Gaspar" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="410" id="124" weight="1">
+        <attvalues>
+          <attvalue for="0" value="15000000" />
+          <attvalue for="1" value="Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="506" id="125" weight="8">
+        <attvalues>
+          <attvalue for="0" value="297000000" />
+          <attvalue for="1" value="Nico GonzÃ¡lez, NicolÃ² Fagioli, Nico GonzÃ¡lez, Arthur Melo, Federico Chiesa, DuÅ¡an VlahoviÄ‡, Federico Chiesa, Neto" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="543" id="126" weight="1">
+        <attvalues>
+          <attvalue for="0" value="12000000" />
+          <attvalue for="1" value="Patrick Cutrone" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="631" id="127" weight="3">
+        <attvalues>
+          <attvalue for="0" value="53000000" />
+          <attvalue for="1" value="Marcos Alonso, Mohamed Salah, Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="430" target="703" id="128" weight="1">
+        <attvalues>
+          <attvalue for="0" value="15000000" />
+          <attvalue for="1" value="Nikola MilenkoviÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="5" id="129" weight="3">
+        <attvalues>
+          <attvalue for="0" value="96000000" />
+          <attvalue for="1" value="Pierre Kalulu, Mattia Caldara, Leonardo Bonucci" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="12" id="130" weight="4">
+        <attvalues>
+          <attvalue for="0" value="77500000" />
+          <attvalue for="1" value="MatÃ­as SoulÃ©, Dean Huijsen, Paulo Dybala, Leonardo Spinazzola" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="36" id="131" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6500000" />
+          <attvalue for="1" value="Filip KostiÄ‡" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="46" id="132" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4000000" />
+          <attvalue for="1" value="Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="162" id="133" weight="1">
+        <attvalues>
+          <attvalue for="0" value="18000000" />
+          <attvalue for="1" value="Denis Zakaria" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="252" id="134" weight="13">
+        <attvalues>
+          <attvalue for="0" value="112000000" />
+          <attvalue for="1" value="Fabio Miretti, Koni De Winter, Koni De Winter, Radu DrÄƒguÈ™in, Radu DrÄƒguÈ™in, NicolÃ² Rovella, Luca Pellegrini, Mattia Perin, Cristian Romero, Stefano Sturaro, Stefano Sturaro, Stefano Sturaro, Ciro Immobile" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="281" id="135" weight="1">
+        <attvalues>
+          <attvalue for="0" value="55000000" />
+          <attvalue for="1" value="JoÃ£o Cancelo" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="294" id="136" weight="1">
+        <attvalues>
+          <attvalue for="0" value="8000000" />
+          <attvalue for="1" value="Ãngel Di MarÃ­a" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="336" id="137" weight="1">
+        <attvalues>
+          <attvalue for="0" value="7500000" />
+          <attvalue for="1" value="Stefano Sturaro" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="410" id="138" weight="5">
+        <attvalues>
+          <attvalue for="0" value="42800000" />
+          <attvalue for="1" value="Marley AkÃ©, Rolando Mandragora, Rolando Mandragora, Roberto Pereyra, Antonio Candreva" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="430" id="139" weight="6">
+        <attvalues>
+          <attvalue for="0" value="159000000" />
+          <attvalue for="1" value="Nico GonzÃ¡lez, NicolÃ² Fagioli, Moise Kean, Arthur Melo, Rolando Mandragora, Federico Chiesa" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="631" id="140" weight="4">
+        <attvalues>
+          <attvalue for="0" value="87000000" />
+          <attvalue for="1" value="Renato Veiga, Denis Zakaria, Juan Cuadrado, Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="683" id="141" weight="1">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Nicola Leali" />
+        </attvalues>
+      </edge>
+      <edge source="506" target="720" id="142" weight="2">
+        <attvalues>
+          <attvalue for="0" value="48000000" />
+          <attvalue for="1" value="Francisco ConceiÃ§Ã£o, Tiago DjalÃ³" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="12" id="143" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Rui PatrÃ­cio" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="58" id="144" weight="2">
+        <attvalues>
+          <attvalue for="0" value="33000000" />
+          <attvalue for="1" value="FÃ¡bio Silva, Leander Dendoncker" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="141" id="145" weight="1">
+        <attvalues>
+          <attvalue for="0" value="9000000" />
+          <attvalue for="1" value="Mario Lemina" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="162" id="146" weight="1">
+        <attvalues>
+          <attvalue for="0" value="500000" />
+          <attvalue for="1" value="RÃºben Vinagre" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="281" id="147" weight="2">
+        <attvalues>
+          <attvalue for="0" value="55000000" />
+          <attvalue for="1" value="Tommy Doyle, Matheus Nunes" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="294" id="148" weight="3">
+        <attvalues>
+          <attvalue for="0" value="90000000" />
+          <attvalue for="1" value="GonÃ§alo Guedes, GonÃ§alo Guedes, RaÃºl JimÃ©nez" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="336" id="149" weight="2">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="RÃºben Vinagre, RÃºben Vinagre" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="430" id="150" weight="1">
+        <attvalues>
+          <attvalue for="0" value="20000000" />
+          <attvalue for="1" value="Patrick Cutrone" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="631" id="151" weight="1">
+        <attvalues>
+          <attvalue for="0" value="55000000" />
+          <attvalue for="1" value="Pedro Neto" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="683" id="152" weight="2">
+        <attvalues>
+          <attvalue for="0" value="29000000" />
+          <attvalue for="1" value="Daniel Podence, RÃºben Vinagre" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="703" id="153" weight="4">
+        <attvalues>
+          <attvalue for="0" value="21000000" />
+          <attvalue for="1" value="Willy Boly, Morgan Gibbs-White, Rafa Mir, JoÃ£o Teixeira" />
+        </attvalues>
+      </edge>
+      <edge source="543" target="720" id="154" weight="2">
+        <attvalues>
+          <attvalue for="0" value="12000000" />
+          <attvalue for="1" value="Vitinha, Willy Boly" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="5" id="155" weight="10">
+        <attvalues>
+          <attvalue for="0" value="202500000" />
+          <attvalue for="1" value="JoÃ£o FÃ©lix, Christian Pulisic, Ruben Loftus-Cheek, TiemouÃ© Bakayoko, Olivier Giroud, Fikayo Tomori, Fikayo Tomori, TiemouÃ© Bakayoko, Mario Pasalic, Marco van Ginkel" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="12" id="156" weight="6">
+        <attvalues>
+          <attvalue for="0" value="143500000" />
+          <attvalue for="1" value="Romelu Lukaku, Tammy Abraham, Pedro, Davide Zappacosta, Mohamed Salah, Mohamed Salah" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="36" id="157" weight="2">
+        <attvalues>
+          <attvalue for="0" value="28000000" />
+          <attvalue for="1" value="Michy Batshuayi, Victor Moses" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="46" id="158" weight="2">
+        <attvalues>
+          <attvalue for="0" value="78500000" />
+          <attvalue for="1" value="Romelu Lukaku, Victor Moses" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="141" id="159" weight="2">
+        <attvalues>
+          <attvalue for="0" value="25000000" />
+          <attvalue for="1" value="Hakim Ziyech, Hakim Ziyech" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="162" id="160" weight="4">
+        <attvalues>
+          <attvalue for="0" value="70000000" />
+          <attvalue for="1" value="Malang Sarr, TiemouÃ© Bakayoko, Radamel Falcao, Mario Pasalic" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="252" id="161" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Davide Zappacosta" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="281" id="162" weight="1">
+        <attvalues>
+          <attvalue for="0" value="38000000" />
+          <attvalue for="1" value="Mateo Kovacic" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="294" id="163" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Nemanja Matic" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="410" id="164" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2000000" />
+          <attvalue for="1" value="Stipe Perica, Stipe Perica" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="430" id="165" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="Mohamed Salah" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="506" id="166" weight="5">
+        <attvalues>
+          <attvalue for="0" value="108000000" />
+          <attvalue for="1" value="Renato Veiga, Denis Zakaria, Juan Cuadrado, Juan Cuadrado, Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="703" id="167" weight="2">
+        <attvalues>
+          <attvalue for="0" value="30000000" />
+          <attvalue for="1" value="Callum Hudson-Odoi, Andrey Santos" />
+        </attvalues>
+      </edge>
+      <edge source="631" target="720" id="168" weight="1">
+        <attvalues>
+          <attvalue for="0" value="16000000" />
+          <attvalue for="1" value="Malang Sarr" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="5" id="169" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5000000" />
+          <attvalue for="1" value="Divock Origi" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="141" id="170" weight="1">
+        <attvalues>
+          <attvalue for="0" value="7000000" />
+          <attvalue for="1" value="Serge Aurier" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="162" id="171" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="281" id="172" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1800000" />
+          <attvalue for="1" value="Arijanet Muric" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="294" id="173" weight="2">
+        <attvalues>
+          <attvalue for="0" value="6000000" />
+          <attvalue for="1" value="Diogo GonÃ§alves, NÃ©lson Oliveira" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="336" id="174" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Rodrigo Ribeiro" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="543" id="175" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4000000" />
+          <attvalue for="1" value="Rafa Mir, JoÃ£o Teixeira" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="631" id="176" weight="1">
+        <attvalues>
+          <attvalue for="0" value="14000000" />
+          <attvalue for="1" value="Andrey Santos" />
+        </attvalues>
+      </edge>
+      <edge source="703" target="683" id="177" weight="11">
+        <attvalues>
+          <attvalue for="0" value="52800000" />
+          <attvalue for="1" value="David Carmo, Marko Stamenic, Giulian Biancone, Omar Richards, Gustavo Scarpa, Josh Bowler, Ui-jo Hwang, JoÃ£o Carvalho, CafÃº, Tiago Silva, Andreas Bouchalakis" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="12" id="178" weight="3">
+        <attvalues>
+          <attvalue for="0" value="20000000" />
+          <attvalue for="1" value="Ola Solbakken, Mady Camara, Konstantinos Manolas" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="162" id="179" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2500000" />
+          <attvalue for="1" value="Gil Dias" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="252" id="180" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3250000" />
+          <attvalue for="1" value="Giannis Fetfatzidis" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="336" id="181" weight="3">
+        <attvalues>
+          <attvalue for="0" value="7000000" />
+          <attvalue for="1" value="Jovane Cabral, Sotiris Alexandropoulos, Bruno Gaspar" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="506" id="182" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2500000" />
+          <attvalue for="1" value="Nicola Leali" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="543" id="183" weight="4">
+        <attvalues>
+          <attvalue for="0" value="35500000" />
+          <attvalue for="1" value="Daniel Podence, JosÃ© SÃ¡, RÃºben Vinagre, Daniel Podence" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="703" id="184" weight="10">
+        <attvalues>
+          <attvalue for="0" value="37700000" />
+          <attvalue for="1" value="David Carmo, Marko Stamenic, Omar Richards, Gustavo Scarpa, Ui-jo Hwang, Josh Bowler, CafÃº, CafÃº, Stefanos Kapino, Andreas Bouchalakis" />
+        </attvalues>
+      </edge>
+      <edge source="683" target="720" id="185" weight="5">
+        <attvalues>
+          <attvalue for="0" value="26000000" />
+          <attvalue for="1" value="Fran Navarro, David Carmo, JosÃ© SÃ¡, GonÃ§alo PaciÃªncia, HernÃ¢ni" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="5" id="186" weight="1">
+        <attvalues>
+          <attvalue for="0" value="22000000" />
+          <attvalue for="1" value="AndrÃ© Silva" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="12" id="187" weight="2">
+        <attvalues>
+          <attvalue for="0" value="23000000" />
+          <attvalue for="1" value="SÃ©rgio Oliveira, IvÃ¡n Marcano" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="46" id="188" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Mehdi Taremi" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="141" id="189" weight="2">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="SÃ©rgio Oliveira, Sinan Bolat" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="162" id="190" weight="1">
+        <attvalues>
+          <attvalue for="0" value="30000000" />
+          <attvalue for="1" value="JoÃ£o Moutinho" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="281" id="191" weight="3">
+        <attvalues>
+          <attvalue for="0" value="63500000" />
+          <attvalue for="1" value="Nico GonzÃ¡lez, Eliaquim Mangala, Fernando" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="336" id="192" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3600000" />
+          <attvalue for="1" value="Miguel Lopes" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="410" id="193" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="NehuÃ©n PÃ©rez" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="506" id="194" weight="3">
+        <attvalues>
+          <attvalue for="0" value="54000000" />
+          <attvalue for="1" value="Tiago DjalÃ³, Francisco ConceiÃ§Ã£o, Alex Sandro" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="543" id="195" weight="4">
+        <attvalues>
+          <attvalue for="0" value="25500000" />
+          <attvalue for="1" value="Vitinha, FÃ¡bio Silva, Willy Boly, Willy Boly" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="631" id="196" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Malang Sarr" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="683" id="197" weight="6">
+        <attvalues>
+          <attvalue for="0" value="34300000" />
+          <attvalue for="1" value="David Carmo, Fran Navarro, JosÃ© SÃ¡, JosÃ© SÃ¡, GonÃ§alo PaciÃªncia, HernÃ¢ni" />
+        </attvalues>
+      </edge>
+      <edge source="720" target="703" id="198" weight="1">
+        <attvalues>
+          <attvalue for="0" value="12000000" />
+          <attvalue for="1" value="David Carmo" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="46" id="199" weight="2">
+        <attvalues>
+          <attvalue for="0" value="42000000" />
+          <attvalue for="1" value="JoÃ£o MÃ¡rio, JoÃ£o MÃ¡rio" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="58" id="200" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2800000" />
+          <attvalue for="1" value="Abdoulay Diaby" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="141" id="201" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2500000" />
+          <attvalue for="1" value="Bruma" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="281" id="202" weight="1">
+        <attvalues>
+          <attvalue for="0" value="25000000" />
+          <attvalue for="1" value="Pedro Porro" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="506" id="203" weight="1">
+        <attvalues>
+          <attvalue for="0" value="7000000" />
+          <attvalue for="1" value="Stefano Sturaro" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="543" id="204" weight="3">
+        <attvalues>
+          <attvalue for="0" value="56000000" />
+          <attvalue for="1" value="Matheus Nunes, RÃºben Vinagre, Rui PatrÃ­cio" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="683" id="205" weight="4">
+        <attvalues>
+          <attvalue for="0" value="14500000" />
+          <attvalue for="1" value="Jovane Cabral, Sotiris Alexandropoulos, Bruno Gaspar, Daniel Podence" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="703" id="206" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Rodrigo Ribeiro" />
+        </attvalues>
+      </edge>
+      <edge source="336" target="720" id="207" weight="1">
+        <attvalues>
+          <attvalue for="0" value="14500000" />
+          <attvalue for="1" value="JoÃ£o Moutinho" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="36" id="208" weight="1">
+        <attvalues>
+          <attvalue for="0" value="10000000" />
+          <attvalue for="1" value="Rodrigo BecÃ£o" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="252" id="209" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3000000" />
+          <attvalue for="1" value="Giuseppe Pezzella" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="336" id="210" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2500000" />
+          <attvalue for="1" value="Naldo" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="430" id="211" weight="2">
+        <attvalues>
+          <attvalue for="0" value="19000000" />
+          <attvalue for="1" value="Juan Cuadrado, Juan Cuadrado" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="506" id="212" weight="6">
+        <attvalues>
+          <attvalue for="0" value="56600000" />
+          <attvalue for="1" value="Marley AkÃ©, Rolando Mandragora, Rolando Mandragora, Roberto Pereyra, Roberto Pereyra, Antonio Candreva" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="631" id="213" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1000000" />
+          <attvalue for="1" value="Stipe Perica" />
+        </attvalues>
+      </edge>
+      <edge source="410" target="720" id="214" weight="1">
+        <attvalues>
+          <attvalue for="0" value="13000000" />
+          <attvalue for="1" value="NehuÃ©n PÃ©rez" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="5" id="215" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1000000" />
+          <attvalue for="1" value="Antonio Mirante" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="12" id="216" weight="2">
+        <attvalues>
+          <attvalue for="0" value="30000000" />
+          <attvalue for="1" value="Mats Hummels, Mario Hermoso" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="252" id="217" weight="1">
+        <attvalues>
+          <attvalue for="0" value="500000" />
+          <attvalue for="1" value="Mario Balotelli" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="410" id="218" weight="2">
+        <attvalues>
+          <attvalue for="0" value="14000000" />
+          <attvalue for="1" value="Oumar Solet, Roberto Pereyra" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="430" id="219" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5000000" />
+          <attvalue for="1" value="David de Gea" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="683" id="220" weight="2">
+        <attvalues>
+          <attvalue for="0" value="10800000" />
+          <attvalue for="1" value="Yusuf YazÄ±cÄ±, Alexandros Paschalakis" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="703" id="221" weight="3">
+        <attvalues>
+          <attvalue for="0" value="14175000" />
+          <attvalue for="1" value="Wayne Hennessey, Serge Aurier, Karim Ansarifard" />
+        </attvalues>
+      </edge>
+      <edge source="515" target="720" id="222" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1500000" />
+          <attvalue for="1" value="Pepe" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
